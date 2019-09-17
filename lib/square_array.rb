@@ -5,4 +5,5 @@ def square_array(numbers)
   
   while counter < array.length do
     puts numbers**
+    counter
 end
